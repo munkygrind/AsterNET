@@ -71,7 +71,7 @@ Ctrl-C to exit");
 		#endregion
 
 		private static ManagerConnection manager;
-		private static string monitorChannel = "y45hiuhsdfij";
+		private static string monitorChannel = null;
 		private static string transferChannel = null;
 
 		#region displayQueue()
